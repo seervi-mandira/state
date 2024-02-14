@@ -1,0 +1,333 @@
+.re{ line-height: 2;
+    width: 500px;
+    color: cadetblue;
+    font-weight: 500;
+  
+
+}
+.pimg{ 
+font-weight: 900;
+color: darkgoldenrod;
+
+}
+.box{ 
+    width: 250px;
+    height: 350px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+  display: inline-block;
+  margin-left: 40px;
+    
+}
+.box-it{ 
+    width: 300px;
+    height: 350px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+  display: inline-block;
+  margin-left: 40px;
+}
+.box-yu{ 
+    width: 250px;
+    height: 350px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+  display: inline-block;
+  margin-left: 40px;
+}
+.para{ 
+ 
+    line-height: 2;
+}
+.ps{ 
+  color: darkblue;
+  padding: 16px;
+  font-size: 24px;
+}
+.pa{ 
+  color: mediumvioletred;
+}
+.bord{ 
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.festival{ 
+  width: 320px;
+  height: 350px;
+  margin-bottom:40px;
+  margin-left: 44px;
+  background-color: lightgray;
+padding: 2px;
+  box-sizing: border-box;
+  display: flexbox;
+  display: inline-block;
+  box-shadow: 4px 2px 2px white;
+
+}
+.abc{ 
+  border-radius: 3px;
+  width: 320px;
+  height: 250px;
+}
+
+
+.fa-square-facebook{ 
+  font-size: 40px;
+  color:blue;
+  margin-left: 24px;
+}
+.fa-twitter{ 
+  font-size: 40px;
+  margin-left: 24px;
+}
+.fa-instagram{ 
+  font-size: 40px;
+  color: purple;
+  margin-left: 24px;
+}
+.fa-youtube{ 
+  font-size: 40px;
+  color: red;
+  margin-left: 24px;
+}
+.fa-envelope{ 
+  font-size: 40px;
+  text-align: end;
+}
+.fa-phone{ 
+  font-size: 40px;
+ margin-bottom: 60px;
+  text-align: end;
+}
+.fa-house{ 
+  font-size: 100px;
+  color: blueviolet;
+}
+.blank{ 
+  text-align: center;
+  margin: 16px;
+  padding: 12px;
+  color: black;
+}
+
+
+.blank:hover{
+  color: darkmagenta;
+
+  
+}
+.help{ 
+  background-color: blanchedalmond;
+  font-weight: bold;
+  color: aqua;
+}
+#form{ 
+  width: 100%;
+margin-left: 24px;
+padding: 34px;
+margin-right: 24px;
+text-align: left;
+}
+.idili{ 
+  margin: 0;
+  margin-bottom: 10px;
+margin-top: 12px;
+}
+.input{ 
+  width: 90%;
+}
+.pre{ 
+  width: 350px;
+  display: inline-block;
+  padding: 24px;
+  margin-right: 20px;
+  line-height: 1.5;
+word-spacing: 1.5px;
+}
+.pres{ 
+  width: 400px;
+  display: inline-block;
+ margin-right: 34px;
+ padding: 24px;
+ line-height: 1.5;
+ word-spacing: 2px;
+ letter-spacing: 1px;
+  
+}
+.fancy{ 
+  width: 100%;
+  display: flex;
+}
+.prehead{
+color: #844257;
+font-weight: 700;
+  padding: 24px;
+}
+.divpre{ 
+  display: inline-block;
+  margin-right: 44px;
+  box-sizing: border-box;
+ 
+}
+.imgpre{ 
+  width: 400px;
+  height: 500px;
+  padding: 30px;
+  margin-bottom: 43px;
+}
+.prepara{ 
+  line-height: 1.5;
+  word-spacing: 1.8px;
+  letter-spacing: 1.9px;
+  color: aquamarine;
+}
+.pdiv{ 
+  width: 250px;
+margin-left: 150px;
+  padding: 16px;
+  display: inline-block;
+
+}
+.naav{ 
+  background-color: #fcb69a;
+}
+.pdi{ 
+  width: 200px;
+margin-left: 500px;
+  padding: 16px;
+  display: inline-block;
+}
+.pdivs{ 
+  display: flex;
+  padding: 24px;
+  line-height: 1.5;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+}
+.fa-location-dot{ 
+  font-size: 50px;
+  color:red;
+}
+.fa-envelope{ 
+  color: red;
+}
+.fa-phone{ 
+  color: red;
+}
+.abdi{ 
+width: 250px;
+height: 300px;
+box-sizing: border-box;
+background-color: #dfdfdf;
+justify-content: center;
+display: inline-block;
+padding: 24px;
+margin-left: 24px;
+margin-bottom: 32px;
+
+}
+.abdiv{ 
+  display: flex;
+  background-image: url("https://goodwillgroups.co.in/wp-content/uploads/elementor/thumbs/DSC_8922-Copy-scaled-pxain1irkmop586qjdqggn86z3hp3l3b7qjyjdwi9c.jpg");
+background-size: cover;
+  width: 100%;
+  height: 700px;
+margin-bottom: 24px;
+}
+.div2{ 
+  width: 250px;
+  height: 250px;
+  background-color: ghostwhite;
+  box-sizing: border-box;
+  margin-left: 24px;
+  padding: 18px;
+  
+}
+.div{ 
+  display: flex;
+}
+.h3{ 
+  color: red;
+  text-align: center;
+  padding: 12px;
+}
+.fa-book{ 
+  font-size: 60px;
+}
+.fa-people-line{ 
+  font-size: 50px;
+text-align: center;
+margin-left: 60px;
+}
+.as{ 
+
+  width: 300px;
+  line-height: 1.5;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+  box-sizing: border-box;
+  display: inline-block;
+ 
+}
+.asf{ 
+  width: 300px;
+line-height: 1.5;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+  box-sizing: border-box;
+  display: inline-block;
+margin-left: 400px;
+}
+.imf{ 
+  width: 450px;
+  height: 450px;
+  float: left;
+  margin-right: 16px;
+}
+.pab{ 
+  line-height: 1.7;
+  margin-left: 24px;
+  color: mediumvioletred;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  font-size: medium;
+  padding: 6px;
+  font-weight: bolder;
+  font-family: Georgia, serif;
+}
+.paba{ 
+  line-height: 1.5;
+  margin-left: 24px;
+
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  font-size: medium;
+  padding: 6px;
+  font-family: Georgia, serif;
+}
+.pabs{ 
+  line-height: 1.5;
+  margin-left: 24px;
+  color: navy;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+  font-size: medium;
+  padding: 6px;
+  font-weight: bold;
+ 
+}
+.butt{ 
+
+  font-size: 16px;
+  text-align: center;
+}
+#form{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgoldenrodyellow;
+  width: 500px;
+  height: 900px;
+
+}
